@@ -1,9 +1,9 @@
 ### Hi My Bro👋
 
-- 🔭 I’m currently working on  **Datatom**
+- 🔭 I’m currently working on  **ubisoft**
 - 🌱 I’m currently learning  **Java/Javascript**
-- 👯 I’m looking to collaborate on **Change job**
-- 🤔 I’m looking for help with  **Change job**
+- 👯 I’m looking to collaborate on **Music**
+- 🤔 I’m looking for help with  **algorithm**
 - 💬 My Blog: **https://www.yemilice.com**
 - 📫 How to reach me: **Yemiliceklichko@outlook.com**
 - 😄 Pronouns: **Rapper**/**Coder**/**Jazz trumpeter**
